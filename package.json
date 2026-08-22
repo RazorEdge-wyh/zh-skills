@@ -1,0 +1,42 @@
+{
+  "name": "zh-skills",
+  "version": "0.1.0",
+  "description": "给中文开发者的 Claude Code 中文工程规范技能包：命名、注释、文档、commit、体检，一条命令装进 .claude/skills/",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "agent",
+    "chinese",
+    "中文",
+    "规范",
+    "ai-coding",
+    "code-review"
+  ],
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "zh-skills": "./bin/zh-skills.js"
+  },
+  "main": "./src/index.js",
+  "files": [
+    "bin",
+    "src",
+    "skills",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RazorEdge-wyh/zh-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RazorEdge-wyh/zh-skills/issues"
+  },
+  "homepage": "https://github.com/RazorEdge-wyh/zh-skills"
+}
