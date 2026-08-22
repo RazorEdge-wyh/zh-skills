@@ -183,7 +183,7 @@ zh-skills --version                     版本
 
 ## 📄 License
 
-MIT © [RazorEdge-wyh](https://github.com/RazorEdge-wyh)
+MIT © [王越豪（湖南科技大学 26 届）· Claude](https://github.com/RazorEdge-wyh)
 
 ---
 
