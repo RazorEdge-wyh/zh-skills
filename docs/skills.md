@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 code-review-zh — 中文工程规范代码审查
+## code-review-zh — 中文工程规范代码审查
 
 **触发**：审查 / review / 检查代码
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📝 write-doc-zh — 地道中文技术写作
+## write-doc-zh — 地道中文技术写作
 
 **触发**：写 / 改文档或注释
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🪵 commit-zh — 中文 Conventional Commits
+## commit-zh — 中文 Conventional Commits
 
 **触发**：生成 git commit message
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧹 refactor-zh — 安全重构
+## refactor-zh — 安全重构
 
 **触发**：重构 / 清理 / 优化代码
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🏥 health-check-zh — 中文工程健康体检
+## health-check-zh — 中文工程健康体检
 
 **触发**：体检 / 健康检查 / 评估项目
 
