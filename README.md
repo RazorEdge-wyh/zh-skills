@@ -9,8 +9,6 @@
 
 <br/>
 
-![npm version](https://img.shields.io/npm/v/zh-skills)
-![npm downloads](https://img.shields.io/npm/dt/zh-skills)
 ![GitHub stars](https://img.shields.io/github/stars/RazorEdge-wyh/zh-skills?style=social)
 ![License](https://img.shields.io/github/license/RazorEdge-wyh/zh-skills)
 ![Node](https://img.shields.io/badge/node-%3E%3D16-green)
@@ -183,7 +181,7 @@ zh-skills --version                     版本
 
 ## License
 
-MIT © [王越豪 | 湖南科技大学 | 26届](https://github.com/RazorEdge-wyh)
+MIT © [王越豪 | 湖南科技大学 | 26级](https://github.com/RazorEdge-wyh)
 
 ---
 
